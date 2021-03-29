@@ -1,5 +1,9 @@
 # ICJ Bootstrap Template
 
+By Morgan-Taylor Thomas
+
+Due March 26, 2021. (I am turning in late because I am dumb)
+
 This template goes along with the [Bootstrap lessons](https://github.com/utdata/icj-class#bootstrap) for Intro to Coding for Journalists.
 
 ## How to set up your project
